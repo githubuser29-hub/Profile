@@ -1,0 +1,42 @@
+.content{
+    text-align: center;
+}
+h2{
+    color:rgb(49, 49, 236);
+}
+h3{
+    color:rgb(49, 49, 236);
+}
+hr{
+    width: 25rem
+}
+h2{
+    margin-top: 2rem;
+    margin-bottom: 0rem;
+}
+h3{
+    margin-top: 1rem;
+    margin-bottom: 0rem;
+}
+.grp1{
+    text-align: justify;
+    display: flex;
+    flex-direction: column;
+}
+.grp2{
+    text-align: justify;
+    display: flex;
+    flex-direction: column;
+}
+ul{
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+}
+a{
+    color: #933f3f;
+}
+img{
+    height: 20rem;
+    width: 25rem;
+}
